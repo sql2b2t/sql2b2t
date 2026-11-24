@@ -11,6 +11,10 @@ on:
       - .profile/render.mjs
       - .github/workflows/expressive-profile.yml
 
+concurrency:
+  group: profile
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
