@@ -1,7 +1,7 @@
 {
- "key": "7303b93",
+ "key": "9613dc9",
  "stars": 1,
- "contributions": 125,
+ "contributions": 126,
  "repos": 6,
  "followers": 0,
  "languages": [
@@ -14,16 +14,16 @@
    2015065
   ],
   [
+   "JavaScript",
+   356283
+  ],
+  [
    "GLSL",
    31385
   ],
   [
    "Python",
-   8859
-  ],
-  [
-   "C",
-   1846
+   6355
   ]
  ],
  "days": [
@@ -113,7 +113,7 @@
     "today": false
    },
    {
-    "c": 18,
+    "c": 19,
     "day": 24,
     "today": true
    },
@@ -153,7 +153,7 @@
    "text": "Профиль на Material 3 Expressive",
    "fork": false,
    "stars": 0,
-   "language": null,
+   "language": "JavaScript",
    "topics": []
   },
   {
