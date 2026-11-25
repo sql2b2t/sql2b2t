@@ -1,13 +1,13 @@
 {
- "key": "9ab7d4e8",
+ "key": "2481d28c",
  "stars": 1,
  "contributions": 127,
- "repos": 6,
+ "repos": 5,
  "followers": 0,
  "languages": [
   [
    "Kotlin",
-   4989259
+   5023009
   ],
   [
    "Java",
@@ -115,9 +115,13 @@
    {
     "c": 20,
     "day": 24,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 25,
     "today": true
    },
-   null,
    null,
    null,
    null
@@ -136,15 +140,6 @@
    "fork": false,
    "stars": 1,
    "language": "Kotlin",
-   "topics": []
-  },
-  {
-   "name": "expressive-profile",
-   "url": "https://github.com/sql2b2t/expressive-profile",
-   "text": "Material 3 Expressive profile README generator for GitHub with daily auto-updates",
-   "fork": true,
-   "stars": 0,
-   "language": "JavaScript",
    "topics": []
   },
   {
